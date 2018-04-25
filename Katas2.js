@@ -63,4 +63,4 @@ function fibonacci(n){
     return result
 
 }
-console.log(fibonacci(0))
+console.log(fibonacci(8))
